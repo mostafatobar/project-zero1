@@ -1,0 +1,26 @@
+.special-heading{
+  font-size: 60px;
+}
+.special-heading p{
+  margin: -20px;
+}
+.services-cont .serv{
+  flex-direction: column;
+}
+.services-cont .cool3{
+  display: none;
+}
+.About-cont .imga{
+  margin: 0;
+}
+.About-cont .imga::before,
+  .About-cont .imga::after{
+
+ display: none;
+}
+.Contact .info .label{
+  font-size: 25px;
+}
+.Contact .info .link{
+  font-size: 25px;
+}

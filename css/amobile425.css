@@ -1,0 +1,19 @@
+.special-heading{
+    font-size: 50px;
+}
+.special-heading p{
+    margin: -15px;
+}
+.services-cont .serv{
+    flex-direction: column;
+}
+.Contact .info .label{
+    font-size: 20px;
+  }
+  .Contact .info .link{
+    font-size: 20px;
+  }
+  .contener {
+    width: 100%;
+    padding: 0 ;
+  }

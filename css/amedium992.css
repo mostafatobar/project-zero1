@@ -1,0 +1,10 @@
+.services-cont .cool3{
+  display: none;
+}
+.About-cont{
+  flex-direction: column;
+  align-items: center;
+}
+.About-cont .imga {
+  margin-bottom: 45px;
+}
